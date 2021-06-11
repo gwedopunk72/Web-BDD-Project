@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "650B52F2070C924E925555EE3663DB5D",
+  "keywordClasses": [
+    {
+      "name": "SignUp_EmptyEmail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

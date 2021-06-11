@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item_KerisSingosari</name>
+   <tag></tag>
+   <elementGuidId>3c52042c-09e7-43ba-871a-36fbd9bac122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div[2]/div/div/div[2]/div/div[2]/div[2]/div/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://duniakeris.com/dijual/keris-singosari-sempana-kuno-asli-sepuh-kode-and009/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keris Singosari Sempana Kuno Asli Sepuh (KODE AND009)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row category-page-row&quot;]/div[@class=&quot;col large-9&quot;]/div[@class=&quot;shop-container&quot;]/div[@class=&quot;products row row-small large-columns-4 medium-columns-3 small-columns-2&quot;]/div[@class=&quot;product-small col has-hover post-5393 product type-product status-publish has-post-thumbnail product_cat-keris product_cat-keris-langka product_cat-keris-luk-9 product_cat-keris-sepuh product_tag-apa-itu-keris product_tag-barang-antik product_tag-filosofi-keris product_tag-keris product_tag-keris-antik product_tag-keris-asli-kuno product_tag-keris-istimewa product_tag-keris-kulit-semangka product_tag-keris-kuno product_tag-keris-langka product_tag-keris-luk product_tag-keris-luk-13 product_tag-keris-lurus product_tag-keris-mahal product_tag-keris-pusaka product_tag-keris-sempana product_tag-keris-sepuh product_tag-keris-singosari product_tag-khasiat-keris product_tag-manfaat-keris  instock shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;col-inner&quot;]/div[@class=&quot;product-small box&quot;]/div[@class=&quot;box-text box-text-products text-center grid-style-2&quot;]/div[@class=&quot;title-wrapper&quot;]/p[@class=&quot;name product-title&quot;]/a[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div[2]/div/div/div[2]/div/div[2]/div[2]/div/p/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Keris Singosari Sempana Kuno Asli Sepuh (KODE AND009)')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[2]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[2]/following::a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[3]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keris Singosari Sempana Kuno Asli Sepuh (KODE AND009)']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://duniakeris.com/dijual/keris-singosari-sempana-kuno-asli-sepuh-kode-and009/')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/p/a</value>
+   </webElementXpaths>
+</WebElementEntity>

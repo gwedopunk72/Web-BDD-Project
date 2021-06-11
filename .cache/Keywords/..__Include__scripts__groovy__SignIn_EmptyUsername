@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "36A84C71681C574BFF20A5D687ED7C34",
+  "keywordClasses": [
+    {
+      "name": "SignIn_EmptyUsername",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
